@@ -8,3 +8,9 @@ const getData = async (url) => {
 };
 
 getData('https://jsonplaceholder.typicode.com/posts');
+
+import moment from 'moment';
+
+console.log('Why are we here?');
+var rightNow = moment().format('MMMM Do YYYY, h:mm:ss a');
+console.log(rightNow);

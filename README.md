@@ -29,6 +29,17 @@ Compile and build
 $ yarn run build
 ```
 
+# Installing WebPack
+```bash
+$ yarn add --dev webpack webpack-dev-server
+```
+
+# Babel + ES6
+```bash
+$ yarn add --dev babel-loader babel-core babel-preset-env
+```
+
+
 ## More Info
 
 ### Author
