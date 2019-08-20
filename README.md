@@ -12,21 +12,21 @@ A starter pack to build JavaScript applications using standards from ES2015, ES2
 Install the dependencies
 
 ```sh
-$ npm install
+$ yarn install
 ```
 
 ### Serve
 To serve in the browser  - Runs webpack-dev-server
 
 ```sh
-$ npm start
+$ yarn start
 ```
 
 ### Build
 Compile and build
 
 ```sh
-$ npm run build
+$ yarn run build
 ```
 
 ## More Info
