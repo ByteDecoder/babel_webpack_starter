@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    app: ["./src/app.js"]
+    app: ["regenerator-runtime/runtime", "./src/app.js"]
   },
   output: {
     path: path.resolve(__dirname, "build"),
