@@ -1,4 +1,5 @@
 import moment from 'moment';
+import regeneratorRuntime from "regenerator-runtime";
 
 const greeting = 'Hello World';
 console.log(greeting);
